@@ -1,0 +1,19 @@
+# Qt build directories
+       build-*/
+       *.pro.user
+       *.autosave
+
+       # Compiled files
+       *.o
+       *.exe
+       *.dll
+       *.so
+       *.a
+
+       # Qt Creator files
+       .qmake.stash
+       Makefile
+
+       # Other
+       .DS_Store
+       *.log
