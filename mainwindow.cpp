@@ -93,8 +93,7 @@ void MainWindow::paintEvent(QPaintEvent *event)
 
 void MainWindow::on_pushButton_add_clicked()
 {
-    //QString curPath = QDir::homePath();
-    QString curPath = "D://Apps//res";
+    QString curPath = QDir::currentPath();
     QString title = "选择音频文件";
     QString filter = "音频文件(*.mp3)";
     QStringList fileList = QFileDialog::getOpenFileNames(this,title,curPath,filter);
