@@ -1,0 +1,19 @@
+# ninja log v6
+7	164	7606081792340945	C:/Qt/projects/MusicPlayer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MusicPlayer_autogen/timestamp	689b58307c6fdf94
+7	164	7606081792340945	MusicPlayer_autogen/mocs_compilation.cpp	689b58307c6fdf94
+7	164	7606081792340945	MusicPlayer_autogen/timestamp	689b58307c6fdf94
+455	1621	7606051254934082	CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/mocs_compilation.cpp.obj	4ebb658bcb7c3c68
+312	1246	7606071232823458	CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	afd738c820367ff
+209	305	7606071232679661	C:/Qt/projects/MusicPlayer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	221a25616ddf8c0a
+7	164	7606081792340945	C:/Qt/projects/MusicPlayer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MusicPlayer_autogen/mocs_compilation.cpp	689b58307c6fdf94
+209	305	7606071232679661	MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	221a25616ddf8c0a
+462	1654	7606051255004086	CMakeFiles/MusicPlayer.dir/main.cpp.obj	f4cc055219f4e74a
+165	3396	7606081793988841	CMakeFiles/MusicPlayer.dir/mainwindow.cpp.obj	722731c02ec7b1a4
+3396	3616	7606081826310844	MusicPlayer.exe	57e081d85ce1eac
+19	699	7606069809261612	build.ninja	697d287ecc9e537d
+19	169	7606082195582562	MusicPlayer_autogen/timestamp	689b58307c6fdf94
+19	169	7606082195582562	MusicPlayer_autogen/mocs_compilation.cpp	689b58307c6fdf94
+19	169	7606082195582562	C:/Qt/projects/MusicPlayer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MusicPlayer_autogen/timestamp	689b58307c6fdf94
+19	169	7606082195582562	C:/Qt/projects/MusicPlayer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MusicPlayer_autogen/mocs_compilation.cpp	689b58307c6fdf94
+170	3274	7606082197100030	CMakeFiles/MusicPlayer.dir/mainwindow.cpp.obj	722731c02ec7b1a4
+3274	3488	7606082228021916	MusicPlayer.exe	57e081d85ce1eac

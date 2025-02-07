@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/Apps/qIcon/next.png</file>
+        <file>D:/Apps/qIcon/pause.png</file>
+        <file>D:/Apps/qIcon/play.png</file>
+        <file>D:/Apps/qIcon/previous.png</file>
+        <file>D:/Apps/qIcon/song.png</file>
+        <file>D:/Apps/qIcon/单曲循环.png</file>
+        <file>D:/Apps/qIcon/静音.png</file>
+        <file>D:/Apps/qIcon/列表循环.png</file>
+        <file>D:/Apps/qIcon/音量.png</file>
+        <file alias="bk">D:/Wallhaven/pixmap.png</file>
+    </qresource>
+</RCC>
